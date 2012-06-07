@@ -1,0 +1,11 @@
+.ejemplo {
+background-image:url(../image/fondo_barra_top.png);
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:36px;
+height:100px;
+/*width: height: /* Colocar el valor deseado para su div*/
+background-color:#999999;
+font: /* Font deseada */
+color: #333; /* Tener en cuenta que el parámetro color SE APLICA A LAS FUENTES */
+text-shadow: 1px 1px 1px #757575; important¡
+}

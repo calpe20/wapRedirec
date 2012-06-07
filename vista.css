@@ -1,0 +1,39 @@
+.ejemplo {
+/*background-image:url(fondo_barra_top.png);*/
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:24px;
+padding: 3px;
+/*width: height: /* Colocar el valor deseado para su div*/
+background-color:#555;
+boder:1px solid #222;
+font: /* Font deseada */
+color: #333; /* Tener en cuenta que el parámetro color SE APLICA A LAS FUENTES */
+text-shadow: 1px 1px 1px #757575; important¡
+}
+label{
+/*background-image:url(fondo_barra_top.png);*/
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+padding: 3px;
+/*width: height: /* Colocar el valor deseado para su div*/
+background-color:#666666;
+boder:1px solid #222;
+font: /* Font deseada */
+color: #333; /* Tener en cuenta que el parámetro color SE APLICA A LAS FUENTES */
+text-shadow: 1px 1px 1px #757575; important¡
+}
+body{
+	margin:auto;
+	background-color: #666666;}
+.cuadrado {width:800px;
+	margin:auto;}
+input{
+	border:#333333 1px solid;
+	background:#999999
+}
+textarea{
+	border:#333333 1px solid;
+	background:#999999
+}
+iframe{
+	border:1px solid}
